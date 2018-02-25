@@ -1,7 +1,9 @@
 # Zakasmi.InstagramBot
 
 # Instagram unlimited auto Like follow Unfollow Bot 2017 
-
+<p align="center">
+<img src="Capture.PNG" width="100%"/>
+  </p>
 Features :
 Follow all users of a specific Account ,
 Unfollow Your followers .
